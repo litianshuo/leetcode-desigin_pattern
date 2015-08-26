@@ -48,7 +48,7 @@ class Solution(object):
 
 if __name__ == '__main__':
     a = '1.0'
-    b = '1'
+    b = '1.2'
     s = Solution()
     print s.compareVersion(a,b)
             
